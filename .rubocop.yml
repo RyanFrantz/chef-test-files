@@ -1,0 +1,41 @@
+---
+AllCops:
+  Exclude:
+    - 'Guardfile'
+    - 'test/**/*'
+    - 'bin/**'
+    - 'vendor/**/*'
+AlignParameters:
+  Enabled: false
+BlockNesting:
+  Enabled: false
+ClassLength:
+  Enabled: false
+CyclomaticComplexity:
+  Enabled: false
+Documentation:
+  Enabled: false
+Encoding:
+  Enabled: false
+Style/FileName:
+  Enabled: false
+LineLength:
+  Enabled: false
+MethodLength:
+  Enabled: false
+Metrics/AbcSize:
+  Enabled: false
+PerceivedComplexity:
+  Enabled: false
+SpaceBeforeFirstArg:
+  Enabled: false
+Style/ClassAndModuleChildren:
+  Enabled: false
+Style/FileName:
+  Enabled: false
+Style/GuardClause:
+  Enabled: false
+Style/PercentLiteralDelimiters:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false
